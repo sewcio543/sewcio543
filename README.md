@@ -3,7 +3,7 @@
 I currently study IT and Econometrics
 
 * Python
-* C#
+*  <img src="pobrane.png" width="30" title="hover text"> C#
 * Statictics
 * OOP
 * Math
