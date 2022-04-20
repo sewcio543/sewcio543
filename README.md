@@ -6,8 +6,9 @@ I currently study IT and Econometrics
 * C#
 * Statictics
 * OOP
-* Math
+* Football Analysis
 * Data Analysis
+* Machine Learning
 
 I am learning java and web technologies <br>
 I love working with data and building solutions to everyday problems <br>
