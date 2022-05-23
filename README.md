@@ -10,7 +10,7 @@ I currently study IT and Econometrics
 * Data Analysis
 * Machine Learning
 
-I am learning java and web technologies <br>
+Getting more familiar with web technologies and databases <br>
 Date Science and ML fan <br>
 I love working with data and building solutions to everyday problems <br>
 Learning every day and getting better!
