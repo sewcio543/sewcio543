@@ -1,14 +1,16 @@
 # Hi! Welcome to my GitHub! :smirk:
 
-I currently study IT and Econometrics
+I study Computer Science and work as Data Scientist
 
 * Python
-* C#
-* Statictics
-* OOP
-* Football Analysis
+* Time Series Modeling and Forecasting
+* pandas, numpy, sklearn, sktime
+* web scraping, selenium, BeautifulSoup
+* OOP and clean code
+* Football and Odds Analysis
+* Machine Learning and Statictics
 * Data Analysis
-* Machine Learning
+* C#, backend and frontend baseic skills
 
 Getting more familiar with web technologies and databases <br>
 Date Science and ML fan <br>
