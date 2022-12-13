@@ -10,7 +10,7 @@ I study Computer Science and work as Data Scientist
 * Football and Odds Analysis
 * Machine Learning and Statictics
 * Data Analysis
-* C#, backend and frontend baseic skills
+* C#, backend and frontend basic skills
 
 Getting more familiar with web technologies and databases <br>
 Date Science and ML fan <br>
