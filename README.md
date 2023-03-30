@@ -7,9 +7,11 @@
 💪 Average Machine Learning Fan 💪<br>
 🐍 Average python and pandas Enjoyer 🐼<br>
 📊 Keen on working with data 📊<br>
-🌱 I Want to dive more into web development 🌐<br>
+⬇️ Web Scraping with selenium and BeautifulSoup 🌍<br>
+🏭 Design Patterns and Object Oriented approach 🌉<br>
+🌱 I want to dive more into web development 🌐<br>
 🔧 I love solving and creating problems 😀<br>
-🍻 Let's have fun! 💥<br>
+🍻 Let's have some fun! 💥<br>
 </div>
 
 <br>
@@ -37,3 +39,4 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
