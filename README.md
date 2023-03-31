@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div style="font-size: 18px">
 🔭 I study Computer Science and Econometrics 🔭<br>
-🧪 I'm working as a Data Scientist 🧪<br>
+🧪 I work as a Data Scientist 🧪<br>
 ✨ Aspiring Machine Learning Engineer ✨<br>
 📈 Time Series Forecasting 📈<br>
 💪 Average Machine Learning Fan 💪<br>
